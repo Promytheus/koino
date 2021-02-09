@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "koino"
+    }
+  },
+  "defaultProject": "koino",
+  "cli": {
+    "packageManager": "yarn"
+  }
 }
